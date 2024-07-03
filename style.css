@@ -227,6 +227,11 @@ article .figcaption{
     mix-blend-mode: multiply;
     width: 100%;
 }
+
+.dark {
+    background-color: #2f2f2f;
+    color: #f9f7f1;
+}
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
 @media only all and (max-width: 1200px) {
